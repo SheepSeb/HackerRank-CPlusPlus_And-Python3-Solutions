@@ -1,6 +1,13 @@
 # HackerRank CPlusPlus Solutions
 
-# Interview Preparation Kit
+
+Solutions Provided in 
+- C++
+- Python3
+
+
+# Interview Preparation Kit C++
+
 Arrays :
 - 2D Array
 - Array Manipulation
@@ -13,6 +20,6 @@ Warp-Up Challenges:
 - Repeated String
 - Sock Merchant
 
-# Artificial Intelligence
+# Artificial Intelligence Python3
 - Bot Saves Princess
 - BotClean
